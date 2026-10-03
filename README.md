@@ -43,10 +43,10 @@ In development<br/><br/>
 
 ## Focus Areas
 
-- **Endpoint and workplace technology** - Enterprise device management and modern workplace solutions
-- **End-user computing** - Streamlining user experiences across platforms
-- **Web applications** - Building fast, scalable web solutions
-- **iOS development** - Native mobile experiences with Swift
+- **Endpoint and workplace technology**: Enterprise device management and modern workplace solutions
+- **End-user computing**: Streamlining user experiences across platforms
+- **Web applications**: Building fast, scalable web solutions
+- **iOS development**: Native mobile experiences with Swift
 
 ---
 
