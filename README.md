@@ -1,6 +1,6 @@
 # Henriques Pontes
 
-IT and end-user computing engineer based in Paris. Founder of [LIVLU Technologies Ltd](https://livlu.com) (UK). I build products through LIVLU Studio, our internal product and engineering studio.
+IT and end-user computing engineer based in Paris. Founder of LIVLU Technologies Ltd (UK). I build products through LIVLU Studio, our internal product and engineering studio.
 
 ## What I'm building
 
